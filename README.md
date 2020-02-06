@@ -24,3 +24,5 @@ Create an app that has three buttons, one for incrementing a counter, one for de
  ***Note:*** Any issues you have with either the GitHub steps or Java/Android questions should be asked publically on Slack. If you have a question, chances are someone else does also. If you see someone has posted a question on Slack and you know the answer, please chime in and answer.
 
 #README
+
+My "Wow-Factor" was the color scheme, I hope this is enough to get the A.
