@@ -22,3 +22,5 @@ Create an app that has three buttons, one for incrementing a counter, one for de
  The above requirements are for a 'B'. In order to achieve an 'A', then you must implement a **WOW** factor. This is normally something that you will have to think of and research how to do it yourself. For this first assignment, styling would be considered. 
  
  ***Note:*** Any issues you have with either the GitHub steps or Java/Android questions should be asked publically on Slack. If you have a question, chances are someone else does also. If you see someone has posted a question on Slack and you know the answer, please chime in and answer.
+
+#README
